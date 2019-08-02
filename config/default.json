@@ -1,4 +1,4 @@
 {
-  "mongoURI": "",
-  "baseUrl": "http://localhost:5000"
+  "mongoURI": "mongodb://heroku_2p06nl0t:onsad4okcogg3ugg854irtbosm@ds135776.mlab.com:35776/heroku_2p06nl0t",
+  "baseUrl": "https://short-node.herokuapp.com/"
 }
